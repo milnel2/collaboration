@@ -1,3 +1,3 @@
 # collaboration
-Hello Class! I hope this works!
+GIT IS FUN!
 Hi Lauren!
