@@ -1,3 +1,3 @@
 # collaboration
-Hello Class! I hope this works!
+This is fun. 
 Hi Lauren!
