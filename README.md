@@ -1,3 +1,3 @@
 # collaboration
-I really like to use github!!
+I really don't like to use github!!
 Hi Lauren!
