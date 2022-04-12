@@ -1,3 +1,3 @@
 # collaboration
-Hi Olivia!!
+End of class check
 Hi Lauren!
