@@ -1,3 +1,3 @@
 # collaboration
-End of class check
+Hello Class! I hope this works!
 Hi Lauren!
